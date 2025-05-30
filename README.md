@@ -1,7 +1,7 @@
 # Electric-Vehicle-Data-Analysis-
 This repository contains a comprehensive data analysis project focused on Electric Vehicle (EV) registrations in Washington State. The dataset includes details of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered with the Department of Licensing (DOL).
 
-The analysis covers:
+The analysis covers:-
 
 🔍 Data Cleaning – Handling missing values, duplicates, VIN anonymization, GPS conversion
 
